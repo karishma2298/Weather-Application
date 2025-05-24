@@ -1,2 +1,2 @@
-# Weather-Application using 
-HTML, CSS, Javascript.
+# Weather-Application 
+ using HTML, CSS, Javascript.
